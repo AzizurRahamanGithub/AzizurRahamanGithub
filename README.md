@@ -107,7 +107,7 @@ class AzizurRahaman:
 
 <p align="center">
   <a href="https://sopior.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ALL_PROJECTS-sopior.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" alt="sopior.com" />
+    <h2>🚀 All Projects → <code>sopior.com</code> 🚀</h2>
   </a>
 </p>
 
