@@ -105,6 +105,12 @@ class AzizurRahaman:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://sopior.com/" target="_blank">
+    <h2> All Projects → <code>sopior.com</code> </h2>
+  </a>
+</p>
+
 ---
 
 ## Certificates
@@ -133,10 +139,6 @@ class AzizurRahaman:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AzizurRahamanGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/streak?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
 </p>
