@@ -78,14 +78,12 @@ class AzizurRahaman:
 | Role | Company | Period |
 |------|---------|--------|
 | **Backend Developer** | **Betopia** | Oct 2024 - Present |
-| **Founder & Full-Stack Developer** | **Softimize Digital Agency** | 2023 - Present |
-| **Freelance Developer** | Client Projects (Domestic & International) | 2022 - Present |
 
 ## Education
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **B.Sc. in Computer Science & Engineering** | University of Scholars | 2021 - 2024 |
+| **B.Sc. in Computer Science & Engineering** | University of Scholars | 2022 - 2026 |
 | **Advanced Diploma in Information Technology** | Ideal College | 2019 - 2021 |
 
 ---
@@ -131,14 +129,14 @@ class AzizurRahaman:
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzizurRahamanGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizurRahamanGithub&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
-</p>
+</p> -->
 
 ---
 
