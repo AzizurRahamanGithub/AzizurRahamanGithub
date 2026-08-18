@@ -37,8 +37,14 @@ class AzizurRahaman:
   <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work" />
 </p>
 
+<h1 align="center">Azizur Rahaman</h1>
 <p align="center">
-  <sub>Building production apps at Betopia | Exploring AI integrations and scalable system design</sub>
+  <sub>Building production Backend at <b>Betopia</b> | Do AI integrations and scalable system design</sub>
+</p>
+<p align="center">
+  <a href="https://sopior.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-sopior.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" alt="sopior.com" />
+  </a>
 </p>
 
 ---
@@ -102,12 +108,6 @@ class AzizurRahaman:
 <p align="center">
   <a href="https://sopior.com/" target="_blank">
     <img src="https://img.shields.io/badge/ALL_PROJECTS-sopior.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" alt="sopior.com" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sopior.com/" target="_blank">
-    <h2> All Projects → <code>sopior.com</code> </h2>
   </a>
 </p>
 
