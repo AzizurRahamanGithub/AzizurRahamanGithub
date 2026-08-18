@@ -99,7 +99,11 @@ class AzizurRahaman:
 | **E-Commerce Platform** | E-commerce REST API with auth and payment processing | <a href="https://github.com/AzizurRahamanGithub/Ecommerce-Rest-API" target="_blank">Repo</a> |
 | **Online Education & Chat** | Scalable REST API: auth, rate limiting, docs | <a href="https://github.com/AzizurRahamanGithub/Employers-Management-System" target="_blank">Repo</a> |
 
-> All projects: <a href="https://sopior.com/" target="_blank">sopior.com</a>
+<p align="center">
+  <a href="https://sopior.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-sopior.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" alt="sopior.com" />
+  </a>
+</p>
 
 ---
 
@@ -129,14 +133,13 @@ class AzizurRahaman:
 
 ## GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzizurRahamanGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizurRahamanGithub&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
-</p> -->
+  <img src="https://github-stats-extended.vercel.app/api?username=AzizurRahamanGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/streak?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AzizurRahamanGithub&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
+</p>
 
 ---
 
